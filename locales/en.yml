@@ -10,7 +10,7 @@ en:
   footer_resource_link2: "<a class='footer-section-link' href='http://meeting.quectel.com:9188/login' target='_blank'>Book a meeting room</a>"
   footer_resource_link3: "<a class='footer-section-link' href='https://cnquectel.sharepoint.com/Home/default.aspx' target='_blank'>SharePoint</a>"
   footer_resource_link4: "<a class='footer-section-link' href='http://project.quectel.com:8089/' target='_blank'>Project Management</a>"
-  footer_resource_link5: "<a class="footer-section-link' href='https://training.quectel.com:8601/' target='_blank'>Traning Management</a>"
+  footer_resource_link5: "<a class='footer-section-link' href='https://training.quectel.com:8601/' target='_blank'>Traning Management</a>"
   footer_resource_link6: "<a class='footer-section-link' href='http://mail.quectel.com/' target='_blank'>Email login vi browser</a>"
   
   footer_systems_title: "Company Regulations"
