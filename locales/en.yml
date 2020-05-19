@@ -27,3 +27,14 @@ en:
   footer_system_link11: "<a class='footer-section-link' href='/c/regulations/production-quality-material/47'>Production, Quality and Material </a>"
   footer_system_link12: "<a class='footer-section-link' href='/c/regulations/RD-project-and-product/65'>R & D project and product management</a>"
   footer_system_link13: "<a class='footer-section-link' href='/c/regulations/ohters/66'>Other Documents</a>"
+  
+  footer_categories_title: "Internal community"
+  footer_category_link1: "<a class='footer-section-link' href='/c/publicity/5'>Publicity</a>"
+  footer_category_link2: "<a class='footer-section-link' href='/c/leaning/22'>Learning and communication</a>"
+  footer_category_link3: "<a class='footer-section-link' href='/c/groups/7'>Quectel circles</a>"
+  footer_category_link4: "<a class='footer-section-link' href='/c/bbs/68'>BBS</a>"
+  footer_category_link5: "<a class='footer-section-link' href='/c/feedback/19'>Feedback and Suggestions</a>"
+  
+  footer_about_link: "<a class='small-link' href='/about'>About EIP</a>"
+  footer_contact_link: "<a class='small-link' href='https://www.quectel.com/company/contact.htm' target='_blank'>Contact Us</a>"
+  footer_web_title: "Quectel employee community"
