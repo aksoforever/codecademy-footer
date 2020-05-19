@@ -1,6 +1,5 @@
 // Theme: CC Footer - Modified from codecademy Footer
 // Target: common scss
-// Last Edited: 2020-02-05 21:34:18 UTC
 
 @import "common/foundation/variables";
 
@@ -47,6 +46,7 @@
     .small-link {
       color: #145ca6;
       margin: 0 0.25em;
+     
     }
     .copyright {
       text-align: right;
@@ -58,11 +58,13 @@
     .divider {
         font-size: 1.1rem;
     }
+     a:hover{text-decoration:underline;}
   }
   .footer-section-link-wrapper a {
     color: #3E3E40;
     &:hover {
         color: #145ca6;
+        text-decoration:underline;
     }
   }
   .list {
@@ -70,7 +72,8 @@
     margin-top: 0;
     span {
       color: #000;
-      font-size: 1rem;
+      font-size: 1.2rem;
+      font-weight:600;
     }
     .social {
       display: flex;
@@ -105,7 +108,7 @@
   .list-languages {
     display: flex;
     justify-content: space-around;
-    flex: 2;
+  
   }
   .list-catalog2 {
     order: 4;
@@ -219,6 +222,7 @@
     }
   }
 }
+
 
 // TMP login page fix
 // .static-login .custom-footer {
